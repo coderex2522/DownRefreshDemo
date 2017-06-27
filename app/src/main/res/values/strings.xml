@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DownRefreshDemo</string>
+    <string name="gridview_demo">GridViewDemo</string>
+</resources>
